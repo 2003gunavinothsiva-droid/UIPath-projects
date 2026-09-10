@@ -1,0 +1,6 @@
+{
+  "Name": "concatenate two words",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
