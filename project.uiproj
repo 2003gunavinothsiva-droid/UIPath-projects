@@ -1,6 +1,6 @@
 {
-  "Name": "DAY 3",
+  "Name": "DAY2",
   "ProjectType": "Process",
-  "Description": "Blank Process",
+  "Description": "conditional statements(if and esle)",
   "MainFile": "Main.xaml"
 }
